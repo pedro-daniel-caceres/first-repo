@@ -1,5 +1,1 @@
 hola desde lorem
-Hola desde la segunda maquina.
-Cómo estás?
-Todo bien. Y vos? 
-Todo bien con SSH
